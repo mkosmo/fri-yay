@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to Rachel's slide deck!"
 ---
 
 Code and Play

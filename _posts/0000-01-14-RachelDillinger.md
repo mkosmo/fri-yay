@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Code and Play
 
 ![catstello](https://octodex.github.com/images/catstello.png)
 {: .center}
